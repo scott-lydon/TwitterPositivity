@@ -1,0 +1,6 @@
+framework module Pods_TwitterPositivity {
+  umbrella header "Pods-TwitterPositivity-umbrella.h"
+
+  export *
+  module * { export * }
+}
